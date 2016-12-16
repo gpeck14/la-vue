@@ -1,0 +1,133 @@
+/*** sectioning elements ***/
+
+body {
+background-color: #999999;
+}
+
+header {
+font-family: 'Dancing Script', cursive;
+}
+
+main {
+font-family: 'Dancing Script', cursive;
+}
+
+footer {
+
+}
+
+nav {
+
+}
+
+section {
+
+}
+
+aside {
+
+}
+
+
+/**** content styles ***/
+
+h1 {
+
+}
+
+h2 {
+
+}
+
+a:link {
+        color: #cc0044;
+}
+a:visited {
+           color: #cc0044;
+}
+
+a:hover {
+         color: #cc0044;
+}
+
+a:active {
+          color: #cc0044;
+}
+
+h3 {
+
+}
+
+h4 {
+
+}
+
+h5 {
+
+}
+
+h6 {
+
+}
+
+p {
+
+}
+
+blockquote {
+
+}
+
+ol {
+
+}
+
+ul {
+
+}
+
+li {
+
+}
+
+table {
+
+}
+
+tr {
+
+}
+
+th {
+
+}
+
+td {
+
+}
+
+
+/*** image styles ***/
+
+img  {
+
+}
+
+
+/*** link styles ***/
+
+a:link {
+
+}
+
+a:visited {
+
+}
+
+a:hover {
+
+}
+
+a:active {
+
+}

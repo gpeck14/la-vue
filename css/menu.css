@@ -1,0 +1,134 @@
+/*** sectioning elements ***/
+
+body {
+background-color: #ffccff;
+}
+
+header {
+text-align: center;
+}
+
+main {
+
+}
+
+footer {
+
+}
+
+nav {
+
+}
+
+section {
+
+}
+
+aside {
+
+}
+
+
+/**** content styles ***/
+
+h1 {
+font-family: 'Playball', cursive;
+}
+
+h2 {
+
+}
+
+a:link {
+        color: #cd6599;
+}
+a:visited {
+           color: #cd6599;
+}
+
+a:hover {
+         color: #cd6599;
+}
+
+a:active {
+          color: #cd6599;
+}
+
+
+h3 {
+
+}
+
+h4 {
+
+}
+
+h5 {
+
+}
+
+h6 {
+
+}
+
+p {
+
+}
+
+blockquote {
+
+}
+
+ol {
+
+}
+
+ul {
+
+}
+
+li {
+
+}
+
+table {
+
+}
+
+tr {
+
+}
+
+th {
+
+}
+
+td {
+
+}
+
+
+/*** image styles ***/
+
+img  {
+
+}
+
+
+/*** link styles ***/
+
+a:link {
+
+}
+
+a:visited {
+
+}
+
+a:hover {
+
+}
+
+a:active {
+
+}
